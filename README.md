@@ -1,2 +1,2 @@
 # open-practice
-Practices for making Arduino.
+Practices of manual work.
